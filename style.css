@@ -157,7 +157,7 @@ nav a {
 .pic_one {
   width: 5rem;
   height: 2.5rem;
-  background: url("/images/bluegirl.jpg");
+  background: url("/assets/bluegirl.jpg");
   background-position: 50% 55%;
   background-size: cover;
 }
@@ -165,7 +165,7 @@ nav a {
 .pic_two {
   width: 7rem;
   height: 2.5rem;
-  background: url("/images/shaljam.jpg");
+  background: url("/assets/shaljam.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -173,7 +173,7 @@ nav a {
 .pic_three {
   width: 5rem;
   height: 2.5rem;
-  background: url("/images/grass.jpg");
+  background: url("/assets/grass.jpg");
   background-position: center;
   background-size: cover;
 }
